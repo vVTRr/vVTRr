@@ -1,9 +1,8 @@
 
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas
 - 🌱 Estou atualizando JavaScript
-- ✨ Atualmente trabalho como Front-end
 
-##
+## 
 
 
 <div>
